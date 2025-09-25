@@ -1,4 +1,4 @@
-public class BubbleSortExample {
+public class BubbleSortOnlyInteger {
 
     static void bubbleSort(int[] arraySort) {
         int n = arraySort.length;
